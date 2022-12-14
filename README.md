@@ -1,3 +1,4 @@
-- 👋 Hello, my name is Blaze
-- 🌐 I currently go to school for Web Design at Northcentral Technical College
-- 🟢 This GitHub account is place for me to push my school/personal related projects
+> NTC 2022 - Associates - Web Design
+> UWM 2024 - Bachelors - Information Science & Technology
+...
+> This GitHub contains my personal projects
