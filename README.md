@@ -3,6 +3,6 @@
 
 ...
 
-> I'm mostly doing design, but I code sometimes too. Check out my personal website to see my other work
+> I'm mostly doing design, but I'm a good frontend developer too. Check out my personal website to see my other work
 
-> www.blazesmith.net
+> [www.blazesmith.xyz](https://blazesmith.xyz/)
